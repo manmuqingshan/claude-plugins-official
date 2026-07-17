@@ -1531,7 +1531,7 @@
         "url": "https://github.com/honeycombio/agent-skill.git",
         "path": "honeycomb",
         "ref": "main",
-        "sha": "53e6bb80242d4667dd730e7cc2150a4a2f9a83bf"
+        "sha": "b76ed506fe2b6a86365f17910e4e8943b8abc6bb"
       },
       "homepage": "https://www.honeycomb.io"
     },
