@@ -497,7 +497,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/microsoft/azure-sql-database-container.git",
-        "sha": "6b74515eee884606297b332661ff227f0d312360"
+        "sha": "a8c1c3ad3ae9b7a21cbc98c07c4963fbcd4cc18c"
       },
       "homepage": "https://github.com/microsoft/azure-sql-database-container"
     },
@@ -720,7 +720,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cap-js/mcp-server.git",
-        "sha": "1f08b6288ca1b78a0200c003a5cc787aafe5bd06"
+        "sha": "b78913198fe1021f0d8b36b0e4ba0ca27003452f"
       },
       "homepage": "https://cap.cloud.sap/"
     },
@@ -1205,7 +1205,7 @@
         "url": "https://github.com/databricks/databricks-agent-skills.git",
         "path": "plugins/databricks/claude",
         "ref": "main",
-        "sha": "d5bde7ba51c1ba9392f89e7ee2fd45c16f90007d"
+        "sha": "fe11006e356b6d995bb4aa359d428c61908914d3"
       },
       "homepage": "https://developers.databricks.com/"
     },
@@ -1738,7 +1738,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "dbdc940833c5a8278f56227bfaca775a4413b1ca"
+        "sha": "4b75eb1f2560e9fa8b8adb459c59b9832a852d3b"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -2099,7 +2099,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mattpocock/skills.git",
-        "sha": "ed37663cc5fbef691ddfecd080dff42f7e7e350d"
+        "sha": "2ab958093e83e0ec752e6c1c5932da465bf23e0c"
       },
       "homepage": "https://github.com/mattpocock/skills"
     },
@@ -3007,7 +3007,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cap-js/mcp-server.git",
-        "sha": "1f08b6288ca1b78a0200c003a5cc787aafe5bd06"
+        "sha": "b78913198fe1021f0d8b36b0e4ba0ca27003452f"
       },
       "homepage": "https://cap.cloud.sap/"
     },
@@ -3306,7 +3306,7 @@
         "url": "https://github.com/stackhawk/agent-skills.git",
         "path": "plugins/hawkscan",
         "ref": "main",
-        "sha": "2afbfaebe5f3c9c93c81347cf2826e05f1331826"
+        "sha": "ba4bab433d31dc313de2ac6e72a43318b31f28dd"
       },
       "homepage": "https://docs.stackhawk.com/ai-security/"
     },
@@ -3508,7 +3508,7 @@
         "url": "https://github.com/SAP/ui-theme-designer-plugins-for-coding-agents.git",
         "path": "plugins/ui-theme-designer",
         "ref": "main",
-        "sha": "4e30f5750f760cca24a898c3a6daa8eebfa060a0"
+        "sha": "7709e93fd6ebce5af7f2e729c357a3fae252c471"
       },
       "homepage": "https://github.com/SAP/ui-theme-designer-plugins-for-coding-agents"
     },
@@ -3684,7 +3684,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "5498215d69d8df054cbaed35c85b1555f249299f"
+        "sha": "9e3b2d557b3f2bfaf49b34fdb32ef3d6c2fc9722"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -3805,7 +3805,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "e42071670d01e537c16f4931d81c3e388f41346e"
+        "sha": "93d828270359da1618c97bd1e812fb6fc11646c4"
       },
       "homepage": "https://langfuse.com"
     },
