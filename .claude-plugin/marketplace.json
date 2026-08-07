@@ -117,23 +117,9 @@
         "url": "https://github.com/airwallex/airwallex-marketplace.git",
         "path": "plugins/airwallex-agentos",
         "ref": "master",
-        "sha": "af06b97b6e94a4316abcb581d666feaa20c61b98"
+        "sha": "b0bd2c3d65da47e39db8c779501119376d91c431"
       },
       "homepage": "https://www.airwallex.com/docs"
-    },
-    {
-      "name": "aiven",
-      "description": "Easily deploy managed PostgreSQL (pg), Kafka, OpenSearch, Clickhouse and other databases, streaming and apps. Free tier available, up and running in minutes.",
-      "author": {
-        "name": "Aiven"
-      },
-      "category": "database",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/aiven/aiven-ai-plugins.git",
-        "sha": "634f41d6852957cb9280e9245f2ea6f74645b4f1"
-      },
-      "homepage": "https://aiven.io"
     },
     {
       "name": "alloydb",
@@ -222,7 +208,7 @@
         "url": "https://github.com/amplitude/mcp-marketplace.git",
         "path": "plugins/amplitude",
         "ref": "main",
-        "sha": "90c0a8e658db547ab63a2210e84be07c23ce4cd0"
+        "sha": "a393e09d188c4e541c6e89d677f6615d73211ef6"
       },
       "description": "Use Amplitude as an expert analyst — instrument Amplitude, discover product opportunities, analyze charts, create dashboards, manage experiments, and understand users and accounts.",
       "category": "monitoring",
@@ -272,7 +258,7 @@
     },
     {
       "name": "asana",
-      "description": "Asana project management integration. Connects Claude Code to Asana's V2 MCP server to create and manage tasks, search projects, update assignments, and track progress. Requires a one-time Asana OAuth app setup — run /asana-setup after installing.",
+      "description": "Asana project management integration. Create and manage tasks, search projects, update assignments, track progress, and integrate your development workflow with Asana's work management platform.",
       "category": "productivity",
       "source": "./external_plugins/asana",
       "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/asana"
@@ -566,7 +552,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/bigquery-data-analytics.git",
-        "sha": "bc689647122cb5cc61995295e01d9eaee2dd3dbe"
+        "sha": "1cbf14f5e3f8da1106d36766a3eef0fe11526d41"
       },
       "homepage": "https://github.com/gemini-cli-extensions/bigquery-data-analytics"
     },
@@ -759,7 +745,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
-        "sha": "6b6e1f241b8d3ee2d73b3f1774106ce319dd2d51"
+        "sha": "5ca9121d1805ba11215ddc36d6fb18d40403c1fc"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
@@ -1128,20 +1114,6 @@
       "homepage": "https://github.com/CrowdStrike/foundry-skills"
     },
     {
-      "name": "crowdstrike-falcon-fusion",
-      "description": "CrowdStrike Falcon Fusion skills for authoring, deploying, and executing Fusion workflows. Includes live action discovery, YAML authoring with schema validation, workflow import and release, execution monitoring, and Falcon Next-Gen SIEM lookup files.",
-      "author": {
-        "name": "CrowdStrike"
-      },
-      "category": "security",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/CrowdStrike/fusion-skills.git",
-        "sha": "c354974ebe39c1412ba438a1dfa84281e24cf1e8"
-      },
-      "homepage": "https://github.com/CrowdStrike/fusion-skills"
-    },
-    {
       "name": "csharp-lsp",
       "description": "C# language server for code intelligence",
       "version": "1.0.0",
@@ -1247,7 +1219,7 @@
         "url": "https://github.com/databricks/databricks-agent-skills.git",
         "path": "plugins/databricks/claude",
         "ref": "main",
-        "sha": "b43377c9224ab76e9b817de63dd8073468cfe7f9"
+        "sha": "50ccd08dfce2001aebc95c784f0bf89f3f268fdf"
       },
       "homepage": "https://developers.databricks.com/"
     },
@@ -1303,7 +1275,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datarobot-oss/datarobot-agent-skills.git",
-        "sha": "db112b09ad19059c186f803231da0efbcc89c5b4"
+        "sha": "a7bd7d8eb6a6ceedef4b7ff51e75074a52e6f30f"
       },
       "homepage": "https://datarobot.com"
     },
@@ -1510,7 +1482,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/figma/mcp-server-guide.git",
-        "sha": "22b2c566d98880ebdb5a8e48eb2c66c596a6d990"
+        "sha": "c80480bbd84bf1ff24d7f27b3fda33a26ba88830"
       },
       "homepage": "https://github.com/figma/mcp-server-guide"
     },
@@ -1780,7 +1752,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "88853f170f9ab6c7bfa515d59694d1f995ac0e7d"
+        "sha": "27d113e56c8ebb52a805e73308ffbfe313f8cc32"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -2088,7 +2060,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ory/lumen.git",
-        "sha": "d0dee0efcc8235bf514217ecb12cdac2ed5213fa"
+        "sha": "cce6305835a9b69ee6cabb2cac6846bed1672890"
       },
       "homepage": "https://www.ory.sh"
     },
@@ -2404,7 +2376,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Nimbleway/agent-skills.git",
-        "sha": "6b0cacada17dad0f21490dae07009e401939b044"
+        "sha": "8075dbe54721001aca58d5379bed266366ab76b3"
       },
       "homepage": "https://docs.nimbleway.com/integrations/agent-skills/plugin-installation"
     },
@@ -3180,9 +3152,9 @@
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/getsentry/cli.git",
-        "path": "packages/cli/plugins/sentry-cli",
+        "path": "plugins/sentry-cli",
         "ref": "main",
-        "sha": "94a4ca5801784ee4fe55bcdf4a19258835fa5e8f"
+        "sha": "ae9a84c5ac02ac3733b0946ca7538997d96ab80d"
       },
       "homepage": "https://sentry.io"
     },
@@ -3742,7 +3714,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "9193b6e2beb79ef58b8f0bda4d7b14ffaaa3b0d6"
+        "sha": "19a02521baff295bcaa5437ccb994281d5117bd5"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
